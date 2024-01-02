@@ -33,6 +33,6 @@ The program will inform you of the number of attempts it took to guess correctly
 Enjoy the Game!
 
  # About
-The Guessing Game is a simple Python project created for educational and entertainment purposes. It was developed by [Your Name].
+The Guessing Game is a simple Python project created for educational and entertainment purposes. It was developed by Swagato Bhattacharyya.
 
 Feel free to contribute to the project or provide feedback. Happy guessing!
