@@ -10,8 +10,8 @@ Run the Program:
 
 Make sure you have Python installed on your machine.
 Open a terminal or command prompt.
-Navigate to the directory containing the guessing_game.py file.
-Run the command: python guessing_game.py
+Navigate to the directory containing the guess.py file.
+Run the command: python guess.py
 
 
 Enter Your Guess:
