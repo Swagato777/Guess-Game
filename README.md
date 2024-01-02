@@ -1,5 +1,4 @@
 
-Certainly! Here's a simple README file for a guessing game in Python:
 
 #Guessing Game
 Welcome to the Guessing Game! This Python program allows you to play a fun and interactive guessing game.
