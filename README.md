@@ -1,9 +1,11 @@
 
 
-#Guessing Game
+# Guessing Game
+
 Welcome to the Guessing Game! This Python program allows you to play a fun and interactive guessing game.
 
-#How to Play
+# How to Play
+
 Run the Program:
 
 Make sure you have Python installed on your machine.
@@ -30,7 +32,7 @@ The program will inform you of the number of attempts it took to guess correctly
 
 Enjoy the Game!
 
-#About
+ # About
 The Guessing Game is a simple Python project created for educational and entertainment purposes. It was developed by [Your Name].
 
 Feel free to contribute to the project or provide feedback. Happy guessing!
